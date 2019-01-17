@@ -16,7 +16,7 @@ var testimonials = [
   },
   {
     name: 'Jorge Torres',
-    title: 'Managing Director at HBCU.vc',
+    title: 'Venture Partner at Silas Capital',
     imageSource: 'img/people/JT.png'
   },
   {
