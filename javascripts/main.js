@@ -25,6 +25,11 @@ var testimonials = [
     imageSource: 'img/people/MK.png'
   },
   {
+    name: 'Chieh Huang',
+    title: 'CEO of Boxed',
+    imageSource: 'img/people/CH.png'
+  },
+  {
     name: 'More Speakers To Be Announced!',
     imageSource: 'img/people/more.png'
   }
