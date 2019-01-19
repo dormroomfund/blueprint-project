@@ -1,4 +1,4 @@
-# Angel Track Marketing Page
+# Blueprint Project Marketing Page
 
 ### Developer Instructions
 1. Install Stylus `npm install stylus -g`
