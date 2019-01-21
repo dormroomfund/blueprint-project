@@ -1,3 +1,21 @@
+var img1 = new Image();
+var img2 = new Image();
+var img3 = new Image();
+var img4 = new Image();
+var img5 = new Image();
+var img6 = new Image();
+var img7 = new Image();
+var img8 = new Image();
+
+img1.src = 'img/people/RK.png';
+img2.src = 'img/people/KJ.png';
+img3.src = 'img/people/SK.png';
+img4.src = 'img/people/JT.png';
+img5.src = 'img/people/MK.png';
+img6.src = 'img/people/CH.png';
+img7.src = 'img/people/JR.jpg';
+img8.src = 'img/people/more.png';
+
 var testimonials = [
   {
     name: 'Richard Kerby',
