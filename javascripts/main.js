@@ -31,7 +31,7 @@ var testimonials = [
   },
   {
     name: 'Jackie Ros',
-    title: 'Regional Director, Americas at Techstar',
+    title: 'Regional Director, Americas at Techstars',
     imageSource: 'img/people/JR.jpg'
   },
   {
