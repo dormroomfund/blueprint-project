@@ -6,6 +6,7 @@ var img5 = new Image();
 var img6 = new Image();
 var img7 = new Image();
 var img8 = new Image();
+var img9 = new Image();
 
 img1.src = 'img/people/RK.png';
 img2.src = 'img/people/KJ.png';
@@ -14,7 +15,8 @@ img4.src = 'img/people/JT.png';
 img5.src = 'img/people/MK.png';
 img6.src = 'img/people/CH.png';
 img7.src = 'img/people/JR.jpg';
-img8.src = 'img/people/more.png';
+img8.src = 'img/people/NM.png';
+img9.src = 'img/people/more.png';
 
 var testimonials = [
   {
@@ -51,6 +53,11 @@ var testimonials = [
     name: 'Jackie Ros',
     title: 'Regional Director, Americas at Techstars',
     imageSource: 'img/people/JR.jpg'
+  },
+  {
+    name: 'Nashil Mouen-Makoua',
+    title: 'Associate at First Round Capital',
+    imageSource: 'img/people/NM.png'
   },
   {
     name: 'More Speakers To Be Announced!',
